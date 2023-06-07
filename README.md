@@ -4,7 +4,7 @@ EDA Capstone Project for fullstack Datascience program
 
 
 Click on the following link to checkout the video presentation.
-- [Video Presentation of Colab File](https://youtu.be/FSrWZdEmN-c)
+- [Video Presentation of Colab File]
 
 
 ## Problem Statement
